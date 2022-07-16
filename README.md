@@ -7,9 +7,10 @@ Web Developer
 An Enthusiast Web Developer with an appetite for learning new technologies to apply to practical problems.
 
 * 🌍  I'm based in Anand,Gujarat
+* 🖥️  See my portfolio at [kevalrathod.netlify.app](http://kevalrathod.netlify.app)
 * ✉️  You can contact me at [kevalrathod3012@gmail.com](mailto:kevalrathod3012@gmail.com)
-* 🧠  I'm learning Cloud Technology
-* 🤝  I'm open to collaborating on on interesting projects as a developer
+* 🧠  I'm currently learning  Cloud Technology
+* 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I am a self-starter, quick learner and good team player.
 
 ### Skills
